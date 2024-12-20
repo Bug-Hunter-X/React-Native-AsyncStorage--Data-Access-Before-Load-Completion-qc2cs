@@ -1,0 +1,1 @@
+This repository demonstrates a common error encountered when working with AsyncStorage in React Native applications. The error occurs when attempting to access AsyncStorage data before it has fully loaded, resulting in unpredictable behavior. The repository provides both the buggy code and a corrected solution.
